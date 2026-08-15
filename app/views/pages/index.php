@@ -14,4 +14,4 @@
         <p>Secure and reliable payment processing.</p>
     </div>
 </div>
-<?php require_once __DIR__ . '/../layouts/footer.php'; ?> ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>

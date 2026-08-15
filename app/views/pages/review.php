@@ -59,4 +59,4 @@ $items = $stmt->get_result()->fetch_all(MYSQLI_ASSOC);
     <?php endforeach; ?>
 </div>
 
-<?php require_once __DIR__ . '/../layouts/footer.php'; ?> ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>

@@ -64,12 +64,13 @@ An e‑commerce web application that integrates **Smart Shopping** with drag-and
 > Modify quantities, remove items, see total. Click “Checkout” to proceed to delivery.
 
 ### 5. Delivery Planning
-![Branch Selection](./screenshots/branch_delivery.png)
-![Route on Map](./screenshots/map_type.png)
+![Branch Selection](./screenshots/delivery.png)
+![Route on Map](./screenshots/type.png)
 > Choose a branch, view driving distance/time on map. Pick standard or express shipping, select date/time.
 
 ### 6. Payment & Invoice
 ![Payment Form](./screenshots/payment.png)
+![Payment Methods](./screenshots/methods.png)
 > Invoice summary, multiple payment methods, card/gift/cash fields dynamic.
 
 ### 7. Order Success/Failure & Truck Assignment
@@ -81,16 +82,20 @@ An e‑commerce web application that integrates **Smart Shopping** with drag-and
 ![Review Page](./screenshots/review.png)
 > Option to leave a review.
 
-### 9. Admin – DB Maintain
-![Insert Record](./screenshots/admin_insert.png)
+### 9. Search Orders
+![Search Dialog](./screenshots/search.png)
+> From navbar, search by `UserID,OrderID` format. Results show order details.
+
+### 10. Admin Home Page
+![Admin Home](./screenshots/adminhome.png)
+> Exclusive DB Maintain features.
+
+### 11. Admin – DB Maintain
+![Insert Record](./screenshots/insert.png)
 ![Update Record](./screenshots/update.png)
 ![Select Search](./screenshots/select.png)
 ![Delete Record](./screenshots/delete.png)
 > Full CRUD interfaces for all tables, accessible only to admins.
-
-### 10. Search Orders
-![Search Dialog](./screenshots/search.png)
-> From navbar, search by `UserID,OrderID` format. Results show order details.
 
 ---
 

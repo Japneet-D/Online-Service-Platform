@@ -51,4 +51,4 @@ if (isset($_SESSION['admin_message'])) {
     </form>
 </div>
 
-<?php require_once __DIR__ . '/../layouts/footer.php'; ?> ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>

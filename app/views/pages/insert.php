@@ -146,4 +146,4 @@ document.getElementById('tableSelect').addEventListener('change', function() {
 document.getElementById('tableSelect').dispatchEvent(new Event('change'));
 </script>
 
-<?php require_once __DIR__ . '/../layouts/footer.php'; ?> ?>
+<?php require_once __DIR__ . '/../layouts/footer.php'; ?>
